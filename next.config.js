@@ -13,4 +13,11 @@ const nextConfig = {
 	distDir: "dist",
 };
 
+module.exports = {
+	plugins: {
+		tailwindcss: {},
+		autoprefixer: {},
+	},
+};
+
 module.exports = nextConfig;
