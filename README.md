@@ -2,7 +2,7 @@
 <h1 align="center">Spotify Clone</h1>
 <h2 align="center">A clone of Spotify built using React, Next.js, Tailwind CSS and Spotify API.</h4>
 
-<h3 align="center">(![alt text](https://techcrunch.com/wp-content/uploads/2023/03/Preview-On-Home_Music-GIF.gif?w=680))</h3>
+![alt text](https://techcrunch.com/wp-content/uploads/2023/03/Preview-On-Home_Music-GIF.gif?w=680)
 
 # Setup
 
