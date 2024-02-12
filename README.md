@@ -1,7 +1,7 @@
 
 <h1 align="center">Spotify Clone</h1>
 <h4 align="center">A clone of Spotify built using React, Next.js, Tailwind CSS and Spotify API.</h4>
-
+![alt text](https://www.zdnet.com/a/img/resize/512268d470f3c12baeccc359fa6f78b9a07c7e58/2023/03/09/ba84a3b1-704b-43cd-b2ee-834da245d904/newspotifyinterface.png?auto=webp&width=1280)
 # Setup
 
 ```bash
